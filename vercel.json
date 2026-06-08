@@ -1,0 +1,5 @@
+{
+    "buildCommand": "npm install && npm run prisma:generate && npm run build",
+    "outputDirectory": "dist",
+    "installCommand": "npm install"
+  }

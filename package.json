@@ -10,7 +10,7 @@
 
   "scripts": {
    
- "build": "npx nest build",
+"build": "npx nest build",
   "start:prod": "npx prisma migrate deploy && node dist/main",
     "start": "node dist/main",
  
